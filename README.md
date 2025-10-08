@@ -73,10 +73,10 @@
 ### 📊 GitHub Analytics  
 
 <a href="https://github.com/berkcanakgul">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkcanakgul&show_icons=true&theme=transparent&hide_title=true&hide=prs,issues&rank_icon=percentile" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MBA76&show_icons=true&theme=transparent&hide_title=true&hide=prs,issues&rank_icon=percentile" height="160"/>
 </a>
 <a href="https://github.com/berkcanakgul">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcanakgul&layout=compact&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBA76&layout=compact&theme=transparent" height="160"/>
 </a>
 
 ---
