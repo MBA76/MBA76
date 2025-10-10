@@ -82,7 +82,7 @@
 ---
 
 ### 🧠 Motto  
-> “Automation isn’t just efficiency — it’s elegance in engineering.”  
+> “Invisible infrastructure, visible impact.”  
 
 ---
 
