@@ -27,8 +27,8 @@
   <a href="https://linkedin.com/in/berkcanakgul">LinkedIn</a>
   &#8287;·&#8287;
   <a href="https://medium.com/@mberkcan1532">Medium</a>
-  &#8287;·&#8287;
-  <a href="https://berkcan.akgul.tr">berkcan.akgul.tr</a>
+<!--   &#8287;·&#8287;
+  <a href="https://berkcan.akgul.tr">berkcan.akgul.tr</a> -->
 </p>
 
 <p align="center">
@@ -55,8 +55,9 @@ Vault, briefly, and never written down. Everything that runs is measured, and ev
 has an alert someone actually reads. The intended result is infrastructure nobody notices —
 because it never gives them a reason to.
 
+<!-- 
 > 🇹🇷 Akıllı, güvenli ve ölçeklenebilir sistemler kuruyorum. Kubernetes, GitOps ve CI/CD
-> otomasyonu üzerine çalışıyorum; koddan altyapıya uçtan uca mühendisliğe inanıyorum.
+> otomasyonu üzerine çalışıyorum; koddan altyapıya uçtan uca mühendisliğe inanıyorum. -->
 
 ## Orchestration
 
@@ -141,9 +142,10 @@ because it never gives them a reason to.
 
 ## Notes
 
-I write about what I learn on [Medium](https://medium.com/@mberkcan1532) — Kubernetes, GitOps and
+I write about what I learn on [Medium](https://medium.com/@mberkcan1532)
+<!-- Kubernetes, GitOps and
 the occasional war story from production. The longer version of everything here is on
-[berkcan.akgul.tr](https://berkcan.akgul.tr), and the best place to reach me is
+[berkcan.akgul.tr](https://berkcan.akgul.tr), and the best place to reach me is -->
 [LinkedIn](https://linkedin.com/in/berkcanakgul).
 
 <p align="center">
