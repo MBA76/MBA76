@@ -1,14 +1,3 @@
-<!--
-  github.com/MBA76 — profile README.
-  Structure: a patent filing. Sheet 1 is the general arrangement, then one drawing sheet at the
-  head of each section, ending with the parts list.
-
-  Assets are repo-relative: they resolve on both the profile and the repo page.
-  No badge or stat services, nothing that can rate-limit or go stale.
-  Every sheet's meaning is repeated as real text beneath it — burned-in type is unreadable on a phone.
-  Image prompts for every sheet live in IMAGE_PROMPTS.md.
--->
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/sheet-1-dark.jpg">
@@ -31,20 +20,15 @@
   <a href="https://berkcan.akgul.tr">berkcan.akgul.tr</a> -->
 </p>
 
-<p align="center">
-  <b>Sheets</b>&#8287;&#8287;
-  <a href="#orchestration">2. Self-Healing Engine</a>
-  &#8287;·&#8287;
-  <a href="#gitops-and-delivery">3. Declarative Governor</a>
-  &#8287;·&#8287;
-  <a href="#secrets-and-security">4. Ephemeral Key Safe</a>
-  &#8287;·&#8287;
-  <a href="#observability">5. Signal Apparatus</a>
-  &#8287;·&#8287;
-  <a href="#parts-list">6. Parts List</a>
-</p>
+Sheets:
 
-<p align="center"><img src="assets/rule.svg" width="380" alt=""></p>
+- [2. Self-Healing Engine](#orchestration)
+- [3. Declarative Governor](#gitops-and-delivery)
+- [4. Ephemeral Key Safe](#secrets-and-security)
+- [5. Signal Apparatus](#observability)
+- [6. Parts List](#parts-list)
+
+<p align="center"><img src="assets/rule.svg" width="580" alt=""></p>
 
 ## Abstract
 
@@ -138,7 +122,7 @@ because it never gives them a reason to.
 
 **Ground** &nbsp;`Linux` `Bash` `PostgreSQL` `Cloud`
 
-<p align="center"><img src="assets/rule.svg" width="380" alt=""></p>
+<p align="center"><img src="assets/rule.svg" width="580" alt=""></p>
 
 ## Notes
 
@@ -146,7 +130,7 @@ I write about what I learn on [Medium](https://medium.com/@mberkcan1532)
 <!-- Kubernetes, GitOps and
 the occasional war story from production. The longer version of everything here is on
 [berkcan.akgul.tr](https://berkcan.akgul.tr), and the best place to reach me is -->
-[LinkedIn](https://linkedin.com/in/berkcanakgul).
+My LinkedIn profile [LinkedIn](https://linkedin.com/in/berkcanakgul).
 
 <p align="center">
   <i>“Invisible infrastructure, visible impact.”</i>
